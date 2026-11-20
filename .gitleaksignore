@@ -1,0 +1,2 @@
+# 測試用假值：sha256("1"+32個0)，非真實憑證（2026-11-20 查證）
+3f076493da760d10f5ab387eb6b4f862a7eee99d:app/tests/api/Check CSS.bru:generic-api-key:15
